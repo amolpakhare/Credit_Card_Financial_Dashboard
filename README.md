@@ -109,8 +109,8 @@ Review:-
 If you’re interested in collaborating or discussing this project:
 
 **Name:** Amol Pakhare  
-**LinkedIn:**   
+🔗 **Github:**  github.com/amolpakhare
+🔗 **LinkedIn:** linkedin.com/in/pakhareamol   
 **Email:** pakhareamol300@gmail.com  
-**GitHub:** 
 
 ---

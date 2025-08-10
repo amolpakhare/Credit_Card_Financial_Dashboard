@@ -108,8 +108,11 @@ Review:- (https://github.com/amolpakhare/Credit_Card_Financial_Dashboard/blob/ma
 If you’re interested in collaborating or discussing this project:
 
 **Name:** Amol Pakhare  
+
 🔗 **Github:**  github.com/amolpakhare
+
 🔗 **LinkedIn:** linkedin.com/in/pakhareamol   
+
 **Email:** pakhareamol300@gmail.com  
 
 ---

@@ -87,7 +87,7 @@ The dataset consists of two major parts:
 ## 📷 Dashboard Preview
 
 **Customer Analysis Dashboard**  
-Review:=    
+Review:=    (https://github.com/amolpakhare/Credit_Card_Financial_Dashboard/blob/main/Credit_card_Customerreport.png)
 
 **Transaction Analysis Dashboard**  
 Review:- 

@@ -89,9 +89,8 @@ The dataset consists of two major parts:
 **Customer Analysis Dashboard**  
 Review:=    (https://github.com/amolpakhare/Credit_Card_Financial_Dashboard/blob/main/Credit_card_Customerreport.png)
 
-**Transcation Analysis Dashboard**    
-Review:-    (https://github.com/amolpakhare/Credit_Card_Financial_Dashboard/blob/main/Credit_card_transcationreport.png)
----
+**Transcation Analysis Dashboard**
+Review:- (https://github.com/amolpakhare/Credit_Card_Financial_Dashboard/blob/main/Credit_card_transcationreport.png)
 
 ## 📹 Demo Video
 🎥 Watch the **3–4 minute walkthrough** where I explain dashboard navigation, filters, and insights:  
